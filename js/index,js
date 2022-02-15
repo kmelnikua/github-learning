@@ -1,1 +1,5 @@
-console.log("пидор")
+console.log("пидор");
+const hui = (text) => {
+    console.log(text);
+}
+hui("zalupa");
